@@ -13,6 +13,7 @@ fn calculate_price_of_apples(n_apples: u64) -> u64 {
 
 fn main() {
     // You can optionally experiment here.
+    println!("HELLLOOOO");
 }
 
 // Don't change the tests!
